@@ -1,0 +1,11 @@
+# Car Rental Management System - Requirements
+# Sprint 1
+
+# No external dependencies required for Sprint 1
+# All functionality uses Python standard library
+
+# For future sprints, you might need:
+# pytest>=7.0.0  # For advanced testing
+# black>=22.0.0  # For code formatting
+# pylint>=2.0.0  # For code linting
+
